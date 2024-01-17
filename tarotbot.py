@@ -44,4 +44,4 @@ async def horoscopo(ctx, signo):
     msg = scrap.daily[signo]
     await ctx.channel.send(msg)
 
-client.run('TOKEN DO AQUI')
+client.run('TOKEN DO BOT AQUI')
