@@ -1,0 +1,133 @@
+{ 
+    "0":{
+        "title": "O Louco",
+        "description":"O Louco simboliza novos começos, novas experiências, simboliza o início da jornada. Quando aparece em uma consulta, geralmente indica que está na hora de deixar para trás tudo que empata nossos objetivos, como medos, dúvidas e preocupações, para trilhar novos rumos. A carta sugere que esse novo começo seja empreendido de braços abertos e com alegria.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-louco.jpg",
+        "color":"#ffa500"},
+    "1":{
+        "title": "O Mago",
+        "description":"O Mago traz a mensagem de que seus talentos e seus próprios dons são as chaves para o seu sucesso em qualquer situação questionada. É como se você tivesse todas as ferramentas que precisa bem na sua frente para garantir que o sucesso potencial se manifeste.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-mago.jpg",
+        "color":"#ffa500"
+    },
+    "2":{
+        "title":"A Sacerdotisa",
+        "description":"A Sacerdotisa é um lembrete de que não temos como saber de tudo acerca de uma situação. Indica que ou não recebemos todos os fatos, ou não enxergamos todos os fatos ou outras pessoas podem estar retendo informações importantes. Quando esta carta aparece, indica segredos e que é melhor procurar pelas respostas.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-sacerdotisa.jpg",
+        "color":"#0000ff"
+        },
+    "3":{
+        "title":"A Imperatriz",
+        "description":"A Imperatriz é uma figura poderosa e muito segura de si. Sugere proteção e não questiona as decisões. Com a certeza de uma mãe cria bem seus filhos, ela não sugere dúvidas. Esta carta geralmente indica um bom presságio, assim como realização e sucesso.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-imperatriz.jpg",
+        "color":"#008000"
+    },
+    "4":{
+        "title":"O Imperador",
+        "description":"Pode indicar que este é um bom momento para iniciar um grande projeto, fazer orçamentos ou que novas oportunidades também podem surgir. De qualquer forma, pode ser importante procurar conselhos com uma figura de autoridade, como seu pai ou outra figura paterna antes de tomar decisões importantes.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-imperador.jpg",
+        "color":"#ff0000"
+        },
+    "5":{
+        "title":"O Papa",
+        "description":"O Papa nos convida a voltar às nossas raízes e tradições. Sugere que você busque conhecimento ou conselhos sobre a situação em questão(um especialista, profissional ou um amigo sábio, por exemplo). A carta também representa melhora de status, mas que conselhos e assistência de pessoas ou instituições estruturadas são importantes para que isso aconteça.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-papa.jpg",
+        "color":"#ffc100"
+    },
+    "6":{
+        "title":"Os Enamorados",
+        "description":"Os Enamorados tem a ver com uma importante decisão que deve ser tomada. Quando a situação envolve trabalho ou amor, ela sugere que você siga sua intuição. Se o seu coração está mandando você seguir um caminho, confie em seus instintos. Só não faça as coisas pensando somente em você, pois o tiro pode sair pela culatra. Pense sempre em quem está envolvido, tente fazer o melhor para todos.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/os-enamorados.jpg",
+        "color":"#ffa500"
+        },
+    "7":{
+        "title":"O Carro",
+        "description":"Esta carta tende a anunciar vitórias e sucessos. Porém, diz que nada vem de bandeja. Mesmo com o sucesso batendo à porta, você deve batalhar por ele. Pode significar uma vitória, mas que deve ser merecida. Simboliza o trabalho duro e a dedicação a longo prazo, indicando que o sucesso não vem fácil, ele deve ser conquistado.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-carro.jpg",
+        "color":"#ffae42"
+    },
+    "8":{
+        "title":"A Força",
+        "description":"A Força representa coragem, determinação, resiliência e força, boas chaves para o sucesso. Porém, indica que para realizar seus objetivos, você também precisará de autocontrole para domar seus próprios leões interiores, que podem representar tanto seus conflitos internos quanto os obstáculos que a vida nos impõe.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-forca.jpg",
+        "color":"#ffff00"
+        },
+    "9":{
+        "title":"O Eremita",
+        "description":"O Eremita traz a necessidade de dar uma pausa e refletir. Anuncia que pode ser a hora de se afastar, analisar e mergulhar no seu interior em busca das respostas que você precisa no momento. Nunca pense no Eremita de forma negativa. Quando ele surgir, lembre-se que geralmente a carta mostra a necessidade de tirar um tempo para si, para poder pensar na vida e mergulhar no seu interior, procurando a verdade e as respostas certas advindas da sabedoria.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-eremita.jpg",
+        "color":"#9acd32"
+        },
+    "10":{
+        "title":"A Roda da Fortuna",
+        "description":"A Roda da Fortuna representa basicamente a colheita daquilo que plantamos. Apesar do seu significado otimista, não sugere prosperidade, sorte e fortuna do nada. Tudo isso está relacionado às ações que você tomou até o momento. Se você preparou o terreno fazendo escolhas sensatas e tocando seus projetos com afinco, seus objetivos serão realizados. Você semeou e regou sua plantação, agora é hora de colher bons frutos.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-roda-da-fortuna.jpg",
+        "color":"#7f00ff"
+        },
+    "11":{
+        "title":"A Justiça",
+        "description":"A traz a mensagem de que a situação em questão tende a se resolver a seu favor, ou, pelo menos, da forma mais justa possível. Pode ser um assunto da lei, o resultado final de uma situação específica, questões de relacionamento ou outras situações. O significado básico da carta muitas vezes fala sobre decisões equilibradas e justas.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-justica.jpg",
+        "color":"#00ff00"
+        },
+    "12":{
+        "title":"O Enforcado",
+        "description":"O Enforcado quer dizer que você precisa se desapegar de algo e seguir em frente. Você pode estar se agarrando a algo que não traz satisfação na questão atual, como um amor não correspondido ou nocivo, um emprego que não te levará a lugar algum, uma promoção que não sai, etc. Parece que alguma força está restringindo a situação mentalizada ou o atual momento. Muitas vezes o desapego pode exigir um sacrifício da sua parte, pode ser doloroso, mas depois que conseguir deixar o que quer que seja para trás, você se sentirá libertado das correntes que te prendiam.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-enforcado.jpg",
+        "color":"#0000ff"
+        },
+    "13":{
+        "title":"A Morte",
+        "description":"A Morte pode incutir medo ou receio nos que ainda não compreendem seu significado. De fato, quando pensamos no tema morte, nada de bom vem à mente, porém, o significado desta carta vai muito além do fim derradeiro. Tem a ver com términos, mas também traz consigo a possibilidade de novos começos, mudanças e transformações. A carta deve ser encarada como um símbolo de transição. Claro que mudanças podem ser incômodas, algumas pessoas aceitam melhor, outras são mais resistentes. Porém, a Morte traz consigo a promessa de melhorias assim que você deixar de lado o que estiver te atrapalhando.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-morte.jpg",
+        "color":"#0d98ba"
+        },
+    "14":{
+        "title":"A Temperança",
+        "description":"A Temperança é a característica da pessoa que consegue equilibrar suas próprias vontades. A carta significa basicamente equilíbrio e sugere harmonia para a situação em questão. Assim, é uma carta que indica mais pensamento do que ação. Você não precisa gastar um monte de energia para resolver sua situação, muito pelo contrário. A carta traz a mensagem de que pode ser um bom momento para ser cauteloso, pois é um arcano que muitas vezes sugere moderação. Alguma viagem ou conexão estrangeira pode estar prestes a acontecer ou ter a ver com a questão.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-temperanca.jpg",
+        "color":"#0000ff"
+        },
+    "15":{
+        "title":"O Diabo",
+        "description":"A carta O Diabo é um Arcano Maior que nunca é visto com bons olhos. Mas, assim como A Morte, não é uma carta negativa. Apenas indica que existem lições que você tem que aprender e isso nem sempre é ruim. Você deve se perguntar o que deseja e o que te impede de obter sucesso em relação a algo. Excessos, maus hábitos, amizades que só atrapalham, problemas de saúde, enfim, qualquer coisa que ponha correntes em você e que causem estagnação na vida ou na situação em questão. Tem a ver com nossos instintos, sendo assim, luxúria, desejos, ambições, bens materiais e sexo. Apesar de trazer tudo isso, o Diabo é uma carta de dualidade. Você precisa se perguntar o que quer, pois caso se entregue de corpo e alma aos prazeres ou excessos, nada de bom acontecerá.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-diabo.jpg",
+        "color":"#4b0082"
+        },
+    "16":{
+        "title":"A Torre",
+        "description":"A Torre tem a ver com mudanças abruptas. Algo pode mudar em relação à situação questionada. Pense em uma estrutura ou fundação que entra em colapso. Um relacionamento, um emprego, uma amizade e em alguns casos, até mesmo estruturas físicas. A Torre simplesmente pode sugerir que estamos enganados em relação a algo e temos a chance de reparar nossos erros, mesmo que de maneira dolorosa. O significado básico é a arrogância, ou seja, podemos estar errados a respeito de alguma coisa e precisamos reconhecer, tentando reparar o engano. Seja qual for o caso, as coisas voltam ao seu lugar no seu devido tempo e a harmonia sempre retorna.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-torre.jpg",
+        "color":"#ff0000"
+        },
+    "17":{
+        "title":"A Estrela",
+        "description":"A Estrela tem um significado extremamente positivo em uma consulta. Quando aparece, indica um momento em que as coisas começam a dar certo. Sugere que conflitos podem ser apaziguados, problemas de saúde curados, dívidas quitadas, separações que viram reuniões, situações que se tornam positivas, enfim, indica paz, prosperidade e harmonia em sua resposta. Às vezes também aponta a ajuda de alguém que agirá como seu protetor.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-estrela.jpg",
+        "color":"#7f00ff"
+        },
+    "18":{
+        "title":"A Lua",
+        "description":"A Lua em significa que está na hora de você seguir a sua intuição. Indica segredos, mistérios e ilusões. Se você tem que tomar uma decisão e não tem certeza sobre que caminho tomar, escute seu coração. É como se a última peça do quebra-cabeças não estivesse disponível ainda, por isso você deve seguir seus instintos pois encontrará as respostas no momento certo.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/a-lua.jpg",
+        "color":"#c71585"
+        },
+    "19":{
+        "title":"O Sol",
+        "description":"O Sol significa que boas energias estão em jogo. Quando esse Arcano Maior aparecetraz todo seu brilho para o momento. A carta sugere otimismo e abundância, indicando que o sucesso parece ser inevitável. O Sol traz energia para realizar, nos enche de confiança e ilumina nosso caminho. Qualquer situação em questão recebe seu brilho e pode ser resolvida. Esse Arcano Maior é a própria representação da vida e da luz. Ou seja, se você estava passando por tempos difíceis, ou alguma situação parecia sem solução, essa carta vem para indicar que boas coisas virão. O Sol traz otimismo, confiança e energia para que tudo se resolva e melhore.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-sol.jpg",
+        "color":"#ffa500"
+        },
+    "20":{
+        "title":"O Julgamento",
+        "description":"O Julgamento significa que um novo ciclo se inicia. Todo o seu desempenho ou os pormenores da questão serão avaliados e recompensas surgirão. Este Arcano Maior indica que está na hora de você refletir sobre a situação ou sua vida no momento a fim de obter mais consciência e elevação. Você terá uma mente mais clara e obterá as respostas que precisa. É uma carta de renascimento e muitas vezes indica que uma situação desgastada receberá uma injeção de ânimo. Ou seja, o Julgamento chegou e você deve refletir sobre sua vida, sobre o que você precisa mudar para obter êxito sobre uma situação que precisa ser alterada. Às vezes a mudança é lenta, mas com paciência, um recomeço se anuncia.Sugere perdoar, pedir perdão, deixar para trás qualquer bagagem que ainda esteja pesada. Indica que depois de tudo, um novo ciclo se iniciará. Assim, o Julgamento simboliza acima de tudo um recomeço que dependerá de tudo que você semeou.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-julgamento.jpg",
+        "color":"#ff0000"
+        },
+    "21":{
+        "title":"O Mundo",
+        "description":"O Mundo significa que a situação em questão terá um desfecho. Esse Arcano Maior anuncia um novo começo e indica que a mudança é inevitável. As mudanças que ocorrem ou ocorrerão tendem a ser positivas, sugerindo resposta positiva. Simboliza que algo em sua vida ou relacionado à questão perguntada chegará a uma conclusão.",
+        "image_url":"https://www.astrolink.com.br/data/tarot/o-mundo.jpg",
+        "color":"#4b0082"
+        } 
+}
